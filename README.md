@@ -1,8 +1,7 @@
 # House Price Prediction
 
 ## Objective
-Predict house prices using property features such as size, number of bedrooms, and location. This project demonstrates preprocessing, regression modeling, and evaluation for predicting housing prices.
-
+The goal is to predict house prices using the available property features, applying regression model such as **Linear Regression**
 ## Dataset
 The dataset used for this project is the **House Price Prediction Dataset** available on Kaggle. It contains 2000 entries with the following columns:
 - **Name:** House Price Prediction Dataset
@@ -18,11 +17,6 @@ The dataset used for this project is the **House Price Prediction Dataset** avai
   - `Condition`   – Condition of the house
   - `Garage`      – Garage availability
   - `Price`       – Target variable (house price) 
-
----
-
-## Project Objective
-The goal is to predict house prices using the available property features, applying regression model such as **Linear Regression**.
 
 ---
 
